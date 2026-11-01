@@ -1,7 +1,7 @@
 # Project Esky
 
 This is a stub Repository to Host 
-- the release files for Project Esky's Runtim
+- the release files for Project Esky's Runtime
 - calibration tools for your headset
 - an openxr hand tracking enabled build of OpenBrush
 
